@@ -1,2 +1,2 @@
 git hub makes tools used by git
-GitHub is the largest host of sourcecode in world
+GitHub is the largest host of source code in world
