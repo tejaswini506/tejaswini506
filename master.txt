@@ -1,2 +1,3 @@
 git hub makes tools used by git
 GitHub is the largest host of source code in world
+git is not a github
